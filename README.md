@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IanMugo
-- 👀 I’m interested in software development and cyber security.
-- 🌱 Currently learning software engineering through the PLP Africa Scholarship May 2024 Cohort.
+- 👀 A Web Developer & Cyber Security Enthusiast.
 - 💞️ Seeking to collaborate on software development projects.
 - 📫 How to reach me ... Ianduncan240@gmail.com.
 
